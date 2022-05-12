@@ -1,0 +1,5 @@
+name: Barebones
+main: ErosionYT\Barebones\Main
+website: https://github.com/ErosionYT
+version: 1.0.0
+api: 4.0.0
